@@ -456,7 +456,7 @@ const NutritionDashboard = () => {
       {/* Food List */}
       <Card>
         <CardHeader>
-          <CardTitle>Today's Meals</CardTitle>
+          <CardTitle>Today&apos;s Meals</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="space-y-2">
